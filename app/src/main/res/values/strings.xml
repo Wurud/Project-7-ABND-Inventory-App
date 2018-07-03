@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="action_insert_product_data">Insert dummy data</string>
+    <string name="action_delete_all_entries">Delete All Products</string>
+    <string name="editor_activity_title_new_product">Add a product</string>
+    <string name="editor_activity_title_edit_product">Edit product</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="category_overview">Product</string>
+    <string name="size_large">Large</string>
+    <string name="size_small">Small</string>
+    <string name="size_medium">Medium</string>
+    <string name="hint_product_name">Name</string>
+    <string name="hint_product_price">Price</string>
+    <string name="category_size">Size</string>
+    <string name="category_qty">Quantity</string>
+    <string name="hint_pet_qty">2</string>
+    <string name="category_supplier">Supplier</string>
+    <string name="hint_product_supplierName">Name</string>
+    <string name="hint_product_supplierPhoneNumber">Phone Number</string>
+    <string name="editor_insert_product_failed">Error with saving product</string>
+    <string name="editor_insert_product_successful">Product saved</string>
+    <string name="empty_view_title_text">The Inventory is empty :(</string>
+    <string name="empty_view_subtitle_text">Get started by adding a product!</string>
+    <string name="editor_update_product_successful">Product updated successfully</string>
+    <string name="editor_update_product_failed">Failed to update product</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_product_successful">Product deleted</string>
+    <string name="editor_delete_product_failed">Error with deleting product</string>
+
+    <string name="sale_button">Get it now!</string>
+    <!-- Dialog message to ask the user to confirm deleting the current pet [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current pet [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current pet [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+    <string name="input_msg">All values doesn\'t accept null</string>
+    <string name="call_supplier">Contact Supplier</string>
+</resources>
